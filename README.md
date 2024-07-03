@@ -5,7 +5,7 @@ This is a simple chat app built with:
 - node.js
 - socket.io
 
-Check it out on heroku : https://paolown-node-chat-app.herokuapp.com/
+Check it out here : 
 
 # Quick start
 
@@ -214,8 +214,4 @@ HTML and the CSS go to the index.html and the style.css
 
 # Author 
 
-Paolo D'Elia
-
-# License
-
-MIT
+Shavez
