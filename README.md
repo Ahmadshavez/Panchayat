@@ -209,9 +209,4 @@ const keepTheChatRoomToTheBottom = () => {
 }
 ```
 
-That's pretty much all you have to know! I wanna know about the 
-HTML and the CSS go to the index.html and the style.css
 
-# Author 
-
-Shavez
